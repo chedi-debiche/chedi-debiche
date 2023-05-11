@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chedi Debiche</h1>
-<h3 align="center">IT engineering student in esprit university from tunisia</h3>
+<h3 align="center">IT engineering student from tunisia (Full stack web developper) </h3>
 
-<img src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNmMGM5ZDRhMWY2ZWNjYWZmYTk0YmM5NDFiNDcwNjJjM2ExZGUwOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chedi-debiche&label=Profile%20views&color=0e75b6&style=flat" alt="chedi-debiche" /> </p>
 
