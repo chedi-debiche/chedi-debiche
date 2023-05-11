@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chedi Debiche</h1>
 <h3 align="center">IT engineering student in esprit university from tunisia</h3>
 
+<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chedi-debiche&label=Profile%20views&color=0e75b6&style=flat" alt="chedi-debiche" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
