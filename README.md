@@ -11,7 +11,7 @@
 
 ### 🚀 About Me  
 - 🎓 **Software Engineer** specialized in **Web Development**  
-- 🌱 Currently improving my skills in **Angular, Node.js, MongoDB, .NET & Power Platform**  
+- 🌱 Currently improving my skills in **Angular, Node.js, MongoDB, spring boot & Power Platform**  
 - 💡 I love building **scalable, efficient, and user-centric** web applications  
 - 👨‍💻 All my projects are available at [**github.com/chedi-debiche**](https://github.com/chedi-debiche)  
 - 📫 Reach me at **ch.debiche@gmail.com**
